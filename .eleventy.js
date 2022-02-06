@@ -244,6 +244,8 @@ module.exports = function (eleventyConfig) {
     }
   });
 
+  eleventyConfig.addPassthroughCopy("about/resume.pdf");
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 

@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I'm a Software Engineer by trade. Below you can find my resume and other info.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+[Resume](resume.pdf) | [GitHub](https://github.com/mattwilkinsonn) | [LinkedIn](https://www.linkedin.com/in/mattwilkinsonn/) | [Twitter](https://twitter.com/matt_wilkinsonn)
